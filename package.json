@@ -1,0 +1,16 @@
+{
+  "name": "com.superdorid.nodeapp",
+  "version": "1.0.0",
+  "description": "basic node setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Shashank Biplav",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
